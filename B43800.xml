@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prophetick admonitions to the city of London : of four great calamities like to befall it, viz.  1. Destruction of their houses, fullfilled in 1666.  2. Slaughters of their persons, wives and children.  3. Loss of their goods and estates, and, 4. Violation and slavery of their consciences.  And of the only means to prevent 'em. / First preached and afterwards printed, and dedicated to the citizens, by Thomas Reeves, B. in divinity, in the year 1657.</title>
+            <author>Reeve, John, 1608-1658.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43800</idno><idno type="EEBO-CITATION">690986714</idno>
+  <idno type="VID">211665</idno>
+  <idno type="EEBO-PROQUEST">2240867895</idno>
+  
+            <idno type="OCLC"> 690986714</idno>
+            <idno type="OCLC">ocn 690986714</idno>
+            <idno type="STC">Wing R692A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211665)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2983:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prophetick admonitions to the city of London : of four great calamities like to befall it, viz.  1. Destruction of their houses, fullfilled in 1666.  2. Slaughters of their persons, wives and children.  3. Loss of their goods and estates, and, 4. Violation and slavery of their consciences.  And of the only means to prevent 'em. / First preached and afterwards printed, and dedicated to the citizens, by Thomas Reeves, B. in divinity, in the year 1657.</title>
+                  <author>Reeve, John, 1608-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Meekes in Hanging Sword-court in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>"Licensed, May 21, 1694.  D. Poplar" --P. 1.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apocalyptic literature --  Early works to 1800.</term>
+               <term type="topical_term">Muggletonians --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211665:1"/>
+            <pb n="1" facs="tcp:211665:2"/>
+            <head>Prophetick Admonitions TO THE CITY of <hi>LONDON,</hi> Of Four Great Calamities like to befall it, <hi>viz.</hi>
+               <list>
+                  <item>1. <hi>Destruction of their Houses, fullfilled in</hi> 1666.</item>
+                  <item>2. <hi>Slaughters of their Persons, Wives and Children</hi>
+                  </item>
+                  <item>3. <hi>Loss of their Goods and Estates. And,</hi>
+                  </item>
+                  <item>4. <hi>Violation and Slavery of their Consciences.</hi>
+                  </item>
+               </list> And of the only means to prevent 'em.</head>
+            <opener>
+               <dateline>First Preached, and afterwards Printed, and Dedicated to the Citizens, by <hi>Thomas Reeves,</hi> B. in Divinity, <date>in the Year 1657.</date>
+               </dateline>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>May 21. 1694.</date>
+                           </dateline>
+                           <signed>D. POPLAR.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>PRaenotions and Presages</hi> of future Things are various and from different Causes; some more certain, some more doubtful; some more general, some more par<g ref="char:EOLhyphen"/>ticular and distinct; some from a natural Sagacity and good observation and consideration of the course of Things, in their Causes and Events, both Natural, Moral, and Di<g ref="char:EOLhyphen"/>vine; some from a farther advantage either of a Divine Illustration, or secret impressions of Spirits from without, both good and evil; some from more manifest Revela<g ref="char:EOLhyphen"/>tions in various manners: Whence the presages of <hi>this Au<g ref="char:EOLhyphen"/>thor</hi> were, I do not find that he doth any where expresly assert or declare, but it seems he had no little concern up<g ref="char:EOLhyphen"/>on him in the Writing of these Sermons for the City of <hi>London;</hi> and of the four Calamities which he had observed
+<pb n="2" facs="tcp:211665:3"/>to concur to the Destruction of other Cities: the first, which is by Destruction of the Buildings, he had so live<g ref="char:EOLhyphen"/>ly described in all things, except the manner by Fire, that it made this Book much taken notice of by many after the accomplishment of it, by that dismal conflagration in the year 1666. and the apprehension which divers think<g ref="char:EOLhyphen"/>ing People have of the great danger there is, that the rest may likewise be accomplished in their time, if not pre<g ref="char:EOLhyphen"/>vented by the means so earnestly recommended by the Author, has moved a well wisher to the City to be at the Charge of Printing an Abstract, for a Warning and Ad<g ref="char:EOLhyphen"/>monition to the Citizens, to whom the whole was De<g ref="char:EOLhyphen"/>dicated.</p>
+            <p>The Author in his Epistle Dedicatory, <hi>pag.</hi> 10.13. and in his Application of the Case of <hi>Nineveh</hi> to this of the City of <hi>London, pag.</hi> 215. having set out at large his apprehensions of the dangerous State of the City, in respect of the many and great sins then abounding in it, (which are not a little increased and aggravated since) in his Application of these words, <hi>that great City, p.</hi> 217. he proceeds to show <hi>the horror of this Cities Desolation,</hi> if ever it doth happen to perish, for it is that Great City. <hi>Oh the Dream</hi> (saith he) <hi>be to our Enemies, and the Interpre<g ref="char:EOLhyphen"/>tation to them that hate us. For if this City come to be visi<g ref="char:EOLhyphen"/>ted, there are not tongues enough in the whole City to reckon up all the Miseries that such a Judgment will bring along with it.</hi> And then relating the Miseries which have befallen other Cities, he came at last to this, in these words, <hi>pag.</hi> 220.</p>
+            <q rend="margQuotes">
+               <p>Oh! then if ever your sins bring in God's judgments into your City, marching rank and file, see the variety of sorrows, ye must weep under; as happily as you no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> seem to live, ye must have another face of wretchedness amongst you; whatsoever present comforts ye now enjoy, yet then nothing but exigents and dis<g ref="char:EOLhyphen"/>asters; your Looking glass will be snatcht away, your Mirror
+<pb n="3" facs="tcp:211665:3"/>cracked, your bright Diamond shivered in pieces, this goodly City of yours all in shreds; ye may seek for a threshold of your ancient Dwellings, for a Pillar of your pleasant Habitations, and not find them; all your specious Mansions and sumptuous Monuments are then gone; not a Porch, Pavement, Seeling, Tarras, Staircase, Gallery, Turret, Lanthorn, Balcony, Bench, peice of a Skreen, pane of a Window, Post, Nail, Stone or Dust of your former Houses to be seen; no, with wringing hands ye may ask, where are those sweet places, where we traded, feasted, slept? where we lived like Masters, and shone like Morning-Stars? No, the Houses are fallen, and the Houshol<g ref="char:EOLhyphen"/>ders are dropt with them; we have nothing but the naked Streets, or naked Fields for shelter; not so much as a Chamber where to lodge a Friend, or to couch down our Children, or re<g ref="char:EOLhyphen"/>pose our own Members, when we are spent with weariness, or afflicted with sickness Wo unto us! our sins have pulled down our Houses, shaken down our City, we are the most har<g ref="char:EOLhyphen"/>borless, seatless People in the World, we live rather like For<g ref="char:EOLhyphen"/>reigners, than Natives; yea, rather like Beasts than Men. Foxes have holes, and the Fowls of the air have nests, but we have neither holes nor nests; our sins have deprived us both of couch and covert: we would be glad if any Hospital or Spittle would receive us; Dens and Caves, the bleak air or cold ground are now left unto us as our only shades and refuges.</p>
+               <p>But this is but the misery of stone work, of Arches, Dor<g ref="char:EOLhyphen"/>mans, Roofs; but what will ye say when it doth come to skin work, Arms, Necks, and Bowels, may not your dear persons come to be joyned in the hazard? and your ten<g ref="char:EOLhyphen"/>der persons touched? yes, ye which have walked the Streets in State, may then run the Streets in distraction; ye which have searched out others with severity, may then be plucked out of corners by others with rigour; ye which have been bowed unto with reverence, may then bend your knees for mercy; with one Leg or half an Arm, ye may beg the preservation of the rest of your Members; what inventions shall ye then be put to, to secure your selves? yea, per<g ref="char:EOLhyphen"/>haps what would ye not give to save your lives? and your tears, it may be, will not rescue you, nor your
+<pb n="4" facs="tcp:211665:4"/>gold redeem you; but your veins must weep as well as your eyes, and your sides be watered as well as your cheeks; when your sins shall shut up all the Conduits of the City, and suffer only the Liver Conduit to run; when they al<g ref="char:EOLhyphen"/>low ye, no showers of rain, but showers of blood to wash your Streets; when ye shall see no men of your Corpo<g ref="char:EOLhyphen"/>ration but the mangled Citizen, nor hear no noise in your Streets but the cries, the shrieks, the yells, and pants of gasping dying men; when amongst the throngs of Associates and Con<g ref="char:EOLhyphen"/>federates, not a man will own you, or come near you; when your Customers will slip from you, your Friends hide head, and your servants flee out of your fight: When ye shall see your Kindred slain in one place, your Wives in another, your Children in a third, and your selves at last, it may be, cut in two to encrease the number of dead Carkasses: When, as populous as ye are, ye shall be but numbred to the Sword; as puissant as ye are, the valiant shall be swept away; as fine fed as ye are, ye shall be fed with your own flesh, and made drunk with your own blood; when your trespasses have been so outragious, that vengeance doth deny you a Being, that ye are thought fit for nothing but to be killed in the place, where ye have committed the Crimes; and to suffer the pains of death within those Walls, which you have cursed with your <hi>Sodoms</hi> faces, and <hi>Aegyptian</hi> hard heartedness; when your Politicians can no longer help you, but must have their subtle brains dashed in peices with yours, nor your Lecturers can no longer save you, but ye must meet together at the Congregation near the shambles; when this great City shall be but a great chopping board to quarter out the limbs of sinners, or the great Altar wherein a whole City is to be sacrificed: Oh! doleful day of new painting your Walls, new paving your Streets, new summoning of a Common-Hall, when all are called forth to nothing, but the derision of Adversaries, the insulting of enemies, to have your breasts to try the points of Spears, your sides the keen<g ref="char:EOLhyphen"/>ness of Swords, your heads the weight of Pole-axes, your bodies to be made Footstools, and your dead carcasses step<g ref="char:EOLhyphen"/>pings for truculent foes to tread and trample upon; when there will be no pity upon the aged, nor compassion upon
+<pb n="5" facs="tcp:211665:4"/>the young, but heaps upon heaps, tumbling of Garments in Blood, and Swords made fat with slaughter: Oh see what a crimson City, crimson sins will then make.</p>
+               <p>Or if ye do escape the dint of the sword, and your lives be given you for a prey, shall not your goods be a prey? yes, some may be reserved out of the greatest Massacre; when men are weary with killing, a retreat may be sounded, and men called off from this slaughter, yet can ye then challenge your old Houses? or bring your Keyes to your old Chests? No, your titles are gone, your interests lost; ye have traded your selves out of your estates, or sinned your selves out of your Properties. The enemy is now House<g ref="char:EOLhyphen"/>keeper, Land-holder, ye have forfeited all to the Sword; fare<g ref="char:EOLhyphen"/>well Inheritances, Purchases, Leases, Wares, Wardrobs, Fur<g ref="char:EOLhyphen"/>niture, Jewels, as ye have gotten perhaps these goods unjust<g ref="char:EOLhyphen"/>ly, so they they shall be taken away unjustly; as ye have fetched them in with violence, so they shall be forced back with violence; vengeance from Heaven will have satisfaction of you for all your fraudulent Bargains, cruel Pawns, extorting Mort<g ref="char:EOLhyphen"/>gages, blooding of Widows, skinning of Orphans; or, as ye have used your goods for pride and bravery, so shall ye see all your gallantry plucked from you, and your new fashions wrung from you; ye shall behold others flaunt in your attires, or spruce up themselves with your curious Dresses; ye your selves may be glad of the worse filthy Garment ye left be<g ref="char:EOLhyphen"/>hind you; yea, perhaps of a cast Garment from your Ad<g ref="char:EOLhyphen"/>versaries backs; or as ye kept all your estates to your selves that tho' God took ye out of the mire, yet having wiped off your own durt, ye never pluck out others which stick in the same extremities; which have forgotten your own Beginnings, and being now mounted to sublimity, are good for nothing but to ride the trappered Horse, or wear Furs; and a great company of these uncompassionate Creatures this City hath, that the indigent poor and the suffering Gospel, can thank them for little succor and sympathy; that when themse<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s fare deli<g ref="char:EOLhyphen"/>ciously every day, <hi>Lazarus</hi> cannot get fragments from them; and when perhaps they have <hi>Obadiah</hi>'s estate, they have not had <hi>Obadiah</hi>'s heart, but get means greedily, and keep it penuriously. Now these self thrifts, how shall Divine Justice Judge them for this parsimonie. They which would grasp all, shall loose all,
+<pb n="6" facs="tcp:211665:5"/>their close hatches shall be locked up from him, who hath a new key to open them, their cankered gold shall eat them out of their vast abundance; they shall be driven to live upon Alms, and to go along with the tattered crew (which they contemned) to beg for support and sustenance; they shall wish that they had but one spare bag, which all the cries of the distressed could not make them to open, or that they had but a few of those mites, which all the tears of necessity could not make them to scatter abroad; no they would trust nothing into God's hand, and God shall shut up all hands and hearts against them; they had no commiseration, and no eye shall pity them. If they be not slain in the heap, yet they do but live to see their own misery their sins have made them Bankrupts, they are undone ruined.</p>
+               <p>And Oh! that the loss of Mony were the greatest mischief, but there is a Treasure of greater value in danger, Conscience is ready to be rifled; there is not an absolute conquest made, till the inward Man be in Fetters, thou must be a slave in prin<g ref="char:EOLhyphen"/>ciples; Oh! it is a hard thing at that time to be a <hi>Jew inward<g ref="char:EOLhyphen"/>ly,</hi> to keep <hi>the girdle of truth about thy loyns;</hi> thou must then bear the fruit of the degenerate Plant, or strange Vine; pour out the Drink-Offerings of other Sacrificers, follow the sorcery of the Mistress of Witchcrafts, or learn Magick with them, that are brought up in the Doctrine of Devils; thou must limp with the halting Age, fit thy Mouth to answer the general shout, That great is <hi>Diana</hi> of the <hi>Ephesians.</hi> Thou must taunt thine own Father, spit in the face of thine own Mother, and hiss away all thy true Brethren; thou must be divorced from thy old faith tho' never so chast, and deny <hi>Sarah</hi> to be, thy Wife, tho' thy espousals with her were never so solemn: The Jews had but lived a while under the <hi>Babylonian,</hi> and they soon learned to speak in the Language of <hi>Canaan,</hi> and the Language of <hi>Ashdod;</hi> The Samaritans had continued a very short space under the Assyrian, and they soon worshipped the true God, and the Gods of the Nations; so that corruption in Doctrine quickly doth follow outward subjection; if the City doth come under another Lord, the Citizen is commonly a double slave, both in Soul and Body. That tho' perhaps many Men care not what become of conscience, that if they could keep their walls, skins, and purses, they would pawn their Souls to any Broker, they have a Religion fitted for any Ages and
+<pb n="7" facs="tcp:211665:5"/>accidents; yet they to whom profession is dearer than the right eye, and purity of the Gospel than the life blood; is not this an heavy punishment? yes, if the Soul be the darling, and there be no more dangerous chase than the hunting of Souls <hi>(and what shall a Man give in exchange of his Soul?)</hi> then it is a mortal wound to have the Soul stabb'd; Oh! miserable Age, if this hour of temptation should come upon you, that Men should be led away with the error of the wicked, and fall from their own stedfastness, yea for out<g ref="char:EOLhyphen"/>ward respects make Shipwrack of Faith and a good Conscience; yet thus it will be then, there will be no safety for inconta<g ref="char:EOLhyphen"/>minate faith, thou wilt either be a <hi>Nicodemus</hi> to come to Christ by Night, or if with <hi>Daniel</hi> thou dost open thy Win<g ref="char:EOLhyphen"/>dows publickly towards <hi>Jerusalem,</hi> thou wilt be cast into the Den of Lions; <hi>Ecebolius</hi> will then turn Renegade, and <hi>Marcel<g ref="char:EOLhyphen"/>line</hi> will hazard to cast in his grains of incense to Idols, <hi>Demas</hi> will forsake all for this present World. S. <hi>Peter</hi> himself will scarce be a Saint in the judgment hall, but for fear of a Da<g ref="char:EOLhyphen"/>mosel forswear Christ. Thou wilt then be a complicated and compleat Slave a slave in thy House, a slave in thy person, a slave in thy Estate, and a Slave in thy Conscience. Oh! therefore if it be possible, shut the City Gates before judgment doth enter, or meet the enemy afar off, before he draw nigh to the City; for if Tears, and Prayers, and Reforma<g ref="char:EOLhyphen"/>tion do not stop his passage, here will be variety of miseries, ye see, at the subduing the City; there must be an eminency of repentance, or else there will be an eminency of wrath. It will be that <hi>great Visitation,</hi> for it is <hi>that great City.</hi>
+               </p>
+            </q>
+            <p>This Admonition and Exhortation he largely and warm<g ref="char:EOLhyphen"/>ly inculcates in divers places of his Book, and also in his Epistle Dedicatory to the Religious Citizens, whom he thus bespeaks, <q rend="margQuotes">Apply your selves to the right work and fall to down right Christianity. Let him be the best Man, which can be most vertuous and zealous in this Religious Service. It is an hard thing to build a City; and it will be as hard a thing to pre<g ref="char:EOLhyphen"/>serve it. When a City is grown crazy with sins, they must be Master-Workmen which can repair the decays of it, or keep it from a downfall: if ye be never so well prepared, yet ye have a task which doth require almost an Angelical purity and perfection to discharge it. Eye your duty, and look upon
+<pb n="8" facs="tcp:211665:6"/>nothing else, and see what a great measure of remorse and re<g ref="char:EOLhyphen"/>formation is expedient to keep a tottering City from an emi<g ref="char:EOLhyphen"/>nent casualty.</q> And a little after: <q rend="margQuotes">Consider what ye are to do, to wring a spear out of the hand of the Almighty, to turn back an host of judgements upon their March; appear in your compleat harness, and quit your selves like Men.</q> A<g ref="char:EOLhyphen"/>gain after he had showed by what Citizens this is to be perform'd <q rend="margQuotes">There are sins in the City, and these sins do threaten judge<g ref="char:EOLhyphen"/>ment; all ye then which do face the one, and fear the other let me intreat you to sigh, and sacrifice with me, that the Ci<g ref="char:EOLhyphen"/>ty being penitent, neither the pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il, nor perishing of the Ci<g ref="char:EOLhyphen"/>ty may be dreaded. To obtain this blessing, I have (as I can) sanctified my self with some solemn resolutions; I desire you to enter into the Vow with me, not to desert the City with your repentance, and devotions, till a discharge may be brought out of Heaven, and the City settled in a condition to be spared.</q>
+               <hi>And again,</hi>
+               <q rend="margQuotes">The City is in peril, what is the pre<g ref="char:EOLhyphen"/>servative? Policy may invent many expedients for security, but I do know none but that of repentance. To prevent a general overthrow, shall we ever see a general conversion? What will Men leave their Seats of honour, and apply their selves to sack cloth, ashes, fasting, mighty cryes, turning from their evil ways, and from the violence of their hands? Oh that we could see such a beautiful City to honour our Nation, and bless it self. But I am afraid that this is but a Ci<g ref="char:EOLhyphen"/>ty of desires, and that it is not harder to build up <hi>Jerusalem</hi> a<g ref="char:EOLhyphen"/>gain in her first glory, than to raise up such a City amongst us; every stone in this City may sooner be altered and new laid rather than Mens minds and consciences. I doubt whe<g ref="char:EOLhyphen"/>ther penitent duties were ever truly intended amongst us, and I am very jealous whether ever or no we shall see them really expressed. Men can rather shoot the gulf, climb the <hi>Alps</hi> go a pilgrimage over the whole Earth, than repent. Well, as it is my drift to propose, impose, and dispose, so let it be yours to explore at home, and excite abroad.</q> And much more to this purpose hath he both there and elsewhere which abun<g ref="char:EOLhyphen"/>dantly shews his strong apprehensions of the Cities danger, and his great concern for it preservation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Meckes,</hi> in <hi>Hanging Sword-Court,</hi> in <hi>Fleet-street,</hi> 1694</p>
+         </div>
+      </back>
+   </text>
+</TEI>
